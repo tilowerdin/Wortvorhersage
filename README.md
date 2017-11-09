@@ -1,2 +1,0 @@
-# Wortvorhersage
-haskell
